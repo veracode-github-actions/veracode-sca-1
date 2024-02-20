@@ -20,4 +20,3 @@ jobs:
         with:
           github_token: ${{ secrets.Veracode-github-action }}
           create-issues: true
-# 
