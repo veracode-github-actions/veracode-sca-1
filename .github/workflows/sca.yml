@@ -19,6 +19,6 @@ jobs:
         uses: veracode/veracode-sca@v2.1.10
         with:
           github_token: ${{ secrets.RUNNERPERM }}
-          # quick: true
-          # create-issues: true
+          quick: true
+          create-issues: true
 # 
